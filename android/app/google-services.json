@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771684206920",
+    "project_id": "myhotel-ea402",
+    "storage_bucket": "myhotel-ea402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771684206920:android:fcd127abc49aee5491cb7d",
+        "android_client_info": {
+          "package_name": "com.poornachand.myhotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771684206920-b2hv76scvvlb7o3no12alt9p519epr77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7URr3fBX9MwDA2su02y0OFakA1fvU5Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771684206920-b2hv76scvvlb7o3no12alt9p519epr77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
